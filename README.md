@@ -17,13 +17,12 @@ LifeLink is a blood donation management system that connects blood donors with r
 - Frontend: React.js with Vite
 - Backend: Node.js with Express
 - Database: MongoDB
-- SMS Integration: Twilio API
+- SMS Integration: FastSMS
 
 ## Prerequisites
 
 - Node.js (v18 or higher)
 - MongoDB
-- Twilio Account (for SMS functionality)
 - npm or yarn package manager
 
 ## Installation
